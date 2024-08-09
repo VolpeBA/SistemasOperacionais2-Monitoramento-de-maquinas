@@ -1,5 +1,5 @@
 # Sistemas Operacionais II
-- Projeto desenvolvido para aprovação na matéria de Sistemas Operacionais II no curso de Análise e Desenvolvimento de Sistema na Fatec Americana.
+- Projeto desenvolvido com o objetivo de conclusão da matéria de "Sistemas Operacionais II" no curso de Análise e desenvolvimento de sistemas e para portfólio pessoal.
 
 # Sobre o projeto
 - Monitoramento de CPU, memória, conexões de rede, usuários logados, I/O (Entrada e saída de dados).
