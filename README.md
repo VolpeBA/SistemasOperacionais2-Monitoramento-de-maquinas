@@ -1,18 +1,18 @@
-# so2-monitoring
-- Monitoramento de CPU, MEMÓRIA, CONEXÕES DE REDE, USUÁRIOS LOGADOS, I/O, etc... Utilizando Telegraf,  Influxdb e Grafana.
+# Sistemas Operacionais II
+- Projeto desenvolvido para aprovação na matéria de Sistemas Operacionais II no curso de Análise e Desenvolvimento de Sistema na Fatec Americana.
 
-# Semana 4 - 
-- Bruno Volpe - Estudando o projeto e entendo o codigo a ser melhorado, na proxima semana irei configurar uma maquina linux para conseguir rodar o projeto.
-- Bruno A - Entendendo os serviços do grafana, influxDB e o funcionamento do código, utilizando as documentações dos serviços.
-
-# Semana 3 - 
-- Bruno Volpe - Estudando o projeto, e selecionando o que irei fazer.
-- Bruno Abdala - Estudando o projeto de monitoramento com grafana e influxDB
-
-# Semana 2 - 
-- Bruno Volpe - Estudando o projeto
-- Bruno Abdala - introdução a SOII, primeiro boot do Arch linux
+# Sobre o projeto
+- Monitoramento de CPU, memória, conexões de rede, usuários logados, I/O (Entrada e saída de dados).
+- Frameworks utilizados Telegraf, Influxdb e Grafana.
 
 # Semana 1 - 
-- Bruno Volpe - Estudando o projeto
-- Bruno Abdala - Introdução a SOII, conhecendo o Arch linux e sua instalação
+Estudando o projeto e analisando.
+
+# Semana 2 - 
+Estudando o projeto e iniciando os trabalhos.
+
+# Semana 3 - 
+Codificando e iniciando configuração.
+
+# Semana 4 - 
+Corrigindo bugs no codigo, na proxima semana irei configurar uma maquina linux para rodar o projeto na apresentação.
