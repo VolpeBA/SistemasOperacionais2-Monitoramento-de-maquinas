@@ -13,6 +13,7 @@
 - influxdb-python [Github link](https://github.com/influxdata/influxdb-python)
 - InfluxDB [Offical website](https://www.influxdata.com/get-influxdb/)
 - Grafana [Official website](https://grafana.com/get)
+- Docker [Official website](https://www.docker.com/)
 
 ## Instalação
 
